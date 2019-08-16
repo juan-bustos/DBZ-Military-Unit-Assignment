@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBZ", "DBZ.csproj", "{DB39247B-5259-464F-85D3-248A1C664127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB39247B-5259-464F-85D3-248A1C664127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB39247B-5259-464F-85D3-248A1C664127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB39247B-5259-464F-85D3-248A1C664127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB39247B-5259-464F-85D3-248A1C664127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3D45F1D-2F2C-4F5B-9DD4-7ACFC87E7790}
+	EndGlobalSection
+EndGlobal
